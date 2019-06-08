@@ -8,6 +8,7 @@ permalink: "/collaboration/"
 
 
  
-If you are interested in academic collaboration in computational chemistry, please [contact us](mailto://csm_rg@openu.ac.il).
+Interested? Have any questions? 
+Please do not hesitate to [contact us](mailto://csm@openu.ac.il)!
 
 
