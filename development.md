@@ -1,7 +1,7 @@
 ---
 layout: "generic"
 title: "Developments"
-image01: "/images/molecule01.png"
+image01: "/images/c60-symmetry.tif"
 permalink: "/our_developments/"
 ---
 # [proteincsm](https://github.com/continuous-symmetry/proteincsm)
