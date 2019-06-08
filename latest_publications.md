@@ -16,7 +16,7 @@ J. of Cheminformatics, in press (2019).
 
 * A.W. Kaspi-Kaneti and I. Tuvi-Arad, 
 
-[Twisted and Bent Out of Shape: Symmetry and Chirality Analysis of Substituted Ferrocenes(https://pubs.acs.org/doi/10.1021/acs.organomet.8b00514), 
+[Twisted and Bent Out of Shape: Symmetry and Chirality Analysis of Substituted Ferrocenes](https://pubs.acs.org/doi/10.1021/acs.organomet.8b00514), 
 Organometallics, 37(19), 3314–3321 (2018).
 
 *  G. Alon and I. Tuvi-Arad, 
