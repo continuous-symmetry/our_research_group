@@ -4,7 +4,7 @@ email: csm_rg@openu.ac.il
 description: | # this means to ignore newlines until "baseurl:"
          We are the Continuous Symmetry Measures (CSM) Research Group of The Open University of Israel.
          We are part of the Tuvi-Arad Research Group Computational Chemistry.
-baseurl: "/our_research_group" # the subpath of your site, e.g. /blog
+baseurl: "/CSM-OUI" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #host: "" # the base hostname & protocol for your site, e.g. http://example.com
 #host: "" # the base hostname & protocol for your site
