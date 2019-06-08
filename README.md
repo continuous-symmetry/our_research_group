@@ -1,7 +1,6 @@
 # Continuous Symmetry Group at the Open University of Israel
-Take alook at:
+Main page:
 https://continuous-symmetry.github.io/CSM-OUI/about/
 
-edit in:
-gh-pages branch
+Edit in: gh-pages branch
 
