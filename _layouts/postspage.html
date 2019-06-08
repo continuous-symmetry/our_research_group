@@ -1,0 +1,14 @@
+---
+layout: skelaton_of_page
+---
+   
+<!-- start  home page content -->
+{%- include carousel.html -%}
+<div class="container marketing">
+<div class="row">
+{% for  item in site.homepage_items %}
+{%- include homepage_item.html -%}
+{% endfor %}
+</div><!-- /.row -->
+</div><!-- /.container marketing -->
+<!-- end  home page content -->

@@ -1,0 +1,30 @@
+---
+layout: skelaton_of_page
+---
+   
+   
+<!-- start default layout content -->
+{%- include page_header.html -%}
+        
+<div class="container marketing">
+ <h2 class="featurette-heading">{{ page.title }}</h2>
+ <div class="row featurette">
+
+{% if page.image %}
+   <div class="col-md-5">
+     <img src="{{ page.image | relative_url }}" alt="{{page.image }}" width="400"  />
+   </div>
+
+   <div class="col-md-7">
+     <p class="lead">{{ content }}</p>
+   </div>
+{% else %}
+   <div class="col-md-122">
+     <p class="lead">{{ content }}</p>
+   </div>
+{% endif %}	
+ </div>
+</div>
+<!-- end home page content -->
+
+

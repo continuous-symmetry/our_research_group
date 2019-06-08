@@ -1,0 +1,41 @@
+---
+layout: skelaton_of_page
+---
+   
+   
+<!-- start home page content -->
+ 
+      {%- include page_header.html -%}
+      <!-- Three -->
+      <section id="three" class="wrapper">
+        <div class="inner">
+          <header class="align-center">
+            <h2>{{ page.title }}</h2>
+          </header>
+          <div class="flex flex-2">
+            <article>
+              <p> 
+                {{ content }}
+              </p>
+	      {% if page.more_info_url %}
+              <footer>
+                <a href="{{ page.more_info_url | relative_url }}"  class="button special">More</a>
+              </footer>
+	      {% endif %}
+            </article>
+            
+            <article>
+	    {% if page.image01 %}
+              <div class="image fit">
+                <img src="{{ page.image01 }}" alt="Pic 01" />
+              </div>
+            {% endif %}
+
+            </article>
+          </div>
+        </div>
+      </section>
+       
+<!-- end home page content -->
+
+
