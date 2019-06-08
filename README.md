@@ -1,5 +1,5 @@
 # our_research_group site
-thake alook at:
+Take alook at:
 https://continuous-symmetry.github.io/our_research_group/
 
 edit in:
