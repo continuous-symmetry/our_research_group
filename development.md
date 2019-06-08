@@ -11,6 +11,6 @@ Continuous Symmetry Measures (CSM) of proteins.
 This program prepares protein files given in PDB format from either X-RAY or NMR measurements for a continuous symmetry measures (CSM) calculation.
 
 # [pdbslicer](https://continuous-symmetry.github.io/pdbslicer/)
-Bisects a PDB file into subunits in order to analyze the properties of its fragments. 
+Bisects a PDB file into subunits in order to analyze their structure. 
 
 
