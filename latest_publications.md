@@ -6,7 +6,7 @@ permalink: "/latest_publications/"
 
 *  I. Tuvi-Arad and G. Alon,
 Improved Algorithms for Quantifying the Near Symmetry of Proteins: Complete Side Chains Analysis,
-J. of Cheminformatics, in press (2019).
+Journal of Cheminformatics, in press (2019).
 
 
 * H. Wang, D. Avnir and I. Tuvi-Arad, 
@@ -16,8 +16,8 @@ J. of Cheminformatics, in press (2019).
 
 * A.W. Kaspi-Kaneti and I. Tuvi-Arad, 
 
-[Twisted and Bent Out of Shape: Symmetry and Chirality Analysis of Substituted Ferrocenes](https://pubs.acs.org/doi/10.1021/acs.organomet.8b00514), 
-Organometallics, 37(19), 3314–3321 (2018).
+  [Twisted and Bent Out of Shape: Symmetry and Chirality Analysis of Substituted Ferrocenes](https://pubs.acs.org/doi/10.1021/acs.organomet.8b00514), 
+  Organometallics, 37(19), 3314–3321 (2018).
 
 *  G. Alon and I. Tuvi-Arad, 
 
