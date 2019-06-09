@@ -1,6 +1,6 @@
 ---
 layout: "generic"
-title: "Developments"
+title: "Software and Tools"
 image01: "/images/c60-symmetry-1.png"
 permalink: "/our_developments/"
 ---
