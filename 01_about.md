@@ -26,6 +26,6 @@ Collaborators:
   
     
     
-*Interested? Have any questions?*
+### Interested? Have any questions?
 
 Please do not hesitate to [contact us](mailto://csm@openu.ac.il)!
