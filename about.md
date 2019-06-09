@@ -14,6 +14,6 @@ Members:
 * [The Research Software company](http://www.chelem.co.il/)
 * [Sagiv Barhoom](https://github.com/sagivba) - Developer and sysadmin
 
-Collabortors:
+Collaborators:
 * [Dr. Gil Alon](https://www.openu.ac.il/personal_sites/gil-alon/), Deptartment of Mathematics and Computer Science, The Open University of Israel
-* [PRof. David Avnir](http://chem.ch.huji.ac.il/avnir), Institute of Chemistry, The Hebrew University of Jerusalem
+* [Ptof. David Avnir](http://chem.ch.huji.ac.il/avnir), Institute of Chemistry, The Hebrew University of Jerusalem
