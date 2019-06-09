@@ -4,6 +4,9 @@ title: "Software and Tools"
 image01: "/images/c60-symmetry-1.png"
 permalink: "/our_developments/"
 ---
+# [Online Calculators](http://csm.ouproj.org.il/)
+Online calculators of continuous symmetry and chirality measures for small molecules and proteins.
+
 # [proteincsm](https://github.com/continuous-symmetry/proteincsm)
 This program calculates the continuous symmetry measures (CSM) of protein homomers.
 
@@ -13,5 +16,3 @@ This program prepares protein files given in PDB format from either X-RAY or NMR
 # [pdbslicer](https://continuous-symmetry.github.io/pdbslicer/)
 This program bisects a PDB file into subunits in order to analyze their structure. 
 
-#[Online Calculators](http://csm.ouproj.org.il/)
-Online calculators of continuous symmetry and chirality measures for small molecules and proteins.
