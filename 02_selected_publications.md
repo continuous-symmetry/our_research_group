@@ -1,7 +1,7 @@
 ---
 layout: "generic"
 title: "Selected Publications"
-permalink: "/latest_publications/"
+permalink: "/selected_publications/"
 ---
 
 * I. Tuvi-Arad and G. Alon, [Improved Algorithms for Quantifying the Near Symmetry of Proteins: Complete Side Chains Analysis](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-019-0360-9), Journal of Cheminformatics, 11(1), 39 (2019).
