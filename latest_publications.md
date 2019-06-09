@@ -1,6 +1,6 @@
 ---
 layout: "generic"
-title: "Latest Publications"
+title: "Selected Publications"
 permalink: "/latest_publications/"
 ---
 
