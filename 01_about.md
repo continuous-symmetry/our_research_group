@@ -21,7 +21,7 @@ Members:
 Collaborators:
 * [Dr. Gil Alon](https://www.openu.ac.il/personal_sites/gil-alon/), Deptartment of Mathematics and Computer Science, The Open University of Israel
 * [Prof. David Avnir](http://chem.ch.huji.ac.il/avnir), Institute of Chemistry, The Hebrew University of Jerusalem
-<br/>
-<br/>
-Interested? Have any questions?<br/>
-Please do not hesitate to [contact us](mailto://csm@openu.ac.il)!
+
+
+
+Interested? Have any questions? Please do not hesitate to [contact us](mailto://csm@openu.ac.il)!
