@@ -13,4 +13,5 @@ This program prepares protein files given in PDB format from either X-RAY or NMR
 # [pdbslicer](https://continuous-symmetry.github.io/pdbslicer/)
 This program bisects a PDB file into subunits in order to analyze their structure. 
 
-
+#[Online Calculators](http://csm.ouproj.org.il/)
+Online calculators of continuous symmetry and chirality measures for small molecules and proteins.
