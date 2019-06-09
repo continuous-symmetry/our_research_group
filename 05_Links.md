@@ -1,6 +1,6 @@
 ---
 layout: "generic"
-title: "Linkes"
+title: "Links"
 image: ""
 permalink: "/links/"
 ---
