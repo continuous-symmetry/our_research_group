@@ -9,10 +9,11 @@ Symmetry is a fascinating structural property of matter. Many molecular systems 
 
 Members:
 * [Dr. Inbal Tuvi-Arad](https://www.openu.ac.il/en/personalsites/InbalTuviArad.aspx), Department of Natural Sciences
-* [Dr. Gil Alon](https://www.openu.ac.il/personal_sites/gil-alon/), Deptartment of Mathematics and Computer Science
 * Dr. Ariela Kaspi-Kaneti
 * Yaffa Shalit
 * [The Research Software company](http://www.chelem.co.il/)
 * [Sagiv Barhoom](https://github.com/sagivba) - Developer and sysadmin
 
-
+Collabortors:
+* [Dr. Gil Alon](https://www.openu.ac.il/personal_sites/gil-alon/), Deptartment of Mathematics and Computer Science, The Open University of Israel
+* [PRof. David Avnir](http://chem.ch.huji.ac.il/avnir), Institute of Chemistry, The Hebrew University of Jerusalem
