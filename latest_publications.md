@@ -6,7 +6,7 @@ permalink: "/latest_publications/"
 
 *  I. Tuvi-Arad and G. Alon,
 
-[Improved Algorithms for Quantifying the Near Symmetry of Proteins: Complete Side Chains Analysis](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-019-0360-9),
+  [Improved Algorithms for Quantifying the Near Symmetry of Proteins: Complete Side Chains Analysis](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-019-0360-9),
 Journal of Cheminformatics, 11(1), 39 (2019).
 
 
@@ -31,5 +31,6 @@ Journal of Cheminformatics, 11(1), 39 (2019).
    Biochemistry, 56, 5635-5643 (2017).
 
 * I. Tuvi-Arad and A. Stirling, 
-[The distortive nature of temperature – A symmetry analysis](http://onlinelibrary.wiley.com/doi/10.1002/ijch.201600045/abstract), 
+
+  [The distortive nature of temperature – A symmetry analysis](http://onlinelibrary.wiley.com/doi/10.1002/ijch.201600045/abstract), 
 Israel Journal of chemistry, 56, 1067-2075 (2016).
