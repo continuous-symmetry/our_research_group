@@ -4,7 +4,7 @@ title: "Software and Tools"
 image01: "/images/c60-symmetry-1.png"
 permalink: "/our_developments/"
 ---
-# [Online Calculators](http://csm.ouproj.org.il/)
+# [CoSyM](http://csm.ouproj.org.il/)
 Online calculators of continuous symmetry and chirality measures for small molecules and proteins.
 
 # [proteincsm](https://github.com/continuous-symmetry/proteincsm)
