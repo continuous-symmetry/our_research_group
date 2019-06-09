@@ -1,5 +1,5 @@
 ---
-title: Our Develpments 
+title: Software and Tools 
 item_id: article3
 more_url: /our_developments/
 item_img: "/images/github-big-img.png"
