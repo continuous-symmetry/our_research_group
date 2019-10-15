@@ -12,7 +12,7 @@ Symmetry is a fascinating structural property of matter. Many molecular systems 
 One may ask then how far from symmetry is a given molecular structure or "what is the symmetry content of a molecule". The continuous symmetry measure (CSM), originally developed by [Prof. David Avnir](http://www.csm.huji.ac.il/new/), answers these questions by quantifying the level of symmetry of a given structure and providing a new terminology for symmetry analysis. Our group focuses on improving the method for a variety of molecular structure, and applying it to study various phenomena that involve approximate symmetry and chirality.
 
 ##### Members:
-* [Dr. Inbal Tuvi-Arad](https://www.openu.ac.il/en/personalsites/InbalTuviArad.aspx), Department of Natural Sciences
+* [Prof. Inbal Tuvi-Arad](https://www.openu.ac.il/en/personalsites/InbalTuviArad.aspx), Department of Natural Sciences
 * Dr. Ariela Kaspi-Kaneti
 * Yaffa Shalit
 * [The Research Software company](http://www.chelem.co.il/)
