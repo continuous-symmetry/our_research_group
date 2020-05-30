@@ -1,6 +1,6 @@
 ---
 layout: "generic"
-title: "Data For Selected Publications"
+title: "Data" 
 image: ""
 permalink: "/Data/"
 ---
