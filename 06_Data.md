@@ -4,7 +4,7 @@ title: "Data"
 permalink: "/Data/"
 ---
 
-Please find below data related to specific papers. 
+Please find below data related to specific publications. 
 
 * Y. Shalit and I. Tuvi-Arad, Side chain flexibility and the symmetry of protein homodimers, PlosONE (accepted)
 
