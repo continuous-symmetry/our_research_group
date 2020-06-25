@@ -1,14 +1,8 @@
 ---
 layout: "generic"
 title: "Data"
-image: ""
 permalink: "/Data/"
 ---
-
-
-
-
-
 
 Please find below data related to specific papers. 
 
