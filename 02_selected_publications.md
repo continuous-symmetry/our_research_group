@@ -4,6 +4,8 @@ title: "Selected Publications"
 permalink: "/selected_publications/"
 ---
 
+* Y. Shalit Y. and I. Tuvi-Arad, Side chain flexibility and the symmetry of protein homodimers, PlosONE (accepted)
+
 * I. Tuvi-Arad and G. Alon, [Improved Algorithms for Quantifying the Near Symmetry of Proteins: Complete Side Chains Analysis](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-019-0360-9), Journal of Cheminformatics, 11(1), 39 (2019).
 
 * H. Wang, D. Avnir and I. Tuvi-Arad, [Chiral Ramachandran Plots II: General trends and proteins chirality spectra](https://pubs.acs.org/doi/10.1021/acs.biochem.8b00974), Biochemistry, 57(45), 6395–6403 (2018).  
