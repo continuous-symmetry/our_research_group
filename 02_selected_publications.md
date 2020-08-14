@@ -4,7 +4,7 @@ title: "Selected Publications"
 permalink: "/selected_publications/"
 ---
 
-* Y. Shalit Y. and I. Tuvi-Arad, Side chain flexibility and the symmetry of protein homodimers, PlosONE (accepted)
+ * Y. Shalit and I. Tuvi-Arad, [Side chain flexibility and the symmetry of protein homodimers](https://doi.org/10.1371/journal.pone.0235863), PLOS ONE 15(7): e0235863 (2020). 
 
 * I. Tuvi-Arad and G. Alon, [Improved Algorithms for Quantifying the Near Symmetry of Proteins: Complete Side Chains Analysis](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-019-0360-9), Journal of Cheminformatics, 11(1), 39 (2019).
 
