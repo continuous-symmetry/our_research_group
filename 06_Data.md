@@ -6,7 +6,7 @@ permalink: "/Data/"
 
 Please find below data related to specific publications. 
 
-* Y. Shalit and I. Tuvi-Arad, Symmetry−Binding Correlations of Crown Ether Complexes with Li<sup>+</sup> and Na<sup>+</sup>, [ACS OMEGA](https://pubs.acs.org/journal/acsodf).
+* Y. Shalit and I. Tuvi-Arad, Symmetry−Binding Correlations of Crown Ether Complexes with Li<sup>+</sup> and Na<sup>+</sup>, [ACS OMEGA](https://pubs.acs.org/journal/acsodf) (2021).
 
    [Coordinates of crown ethers with Li<sup>+</sup> and Na<sup>+</sup>](/assets/data/Li-Na.zip) 
 
