@@ -6,7 +6,8 @@ permalink: "/Data/"
 
 Please find below data related to specific publications. 
 
-* Y. Shalit and I. Tuvi-Arad, Binding Cations to Crown Ethers - Non-Bonded Interactions Create Molecular Distortion (submitted). 
+* Y. Shalit and I. Tuvi-Arad, Symmetry−Binding Correlations of Crown Ether Complexes with Li^+ and Na^+, [ACS OMEGA](https://pubs.acs.org/journal/acsodf).
+* [Coordinates of crown ethers with Li^+ and Na^+](/assets/data/Li-Na.zip) 
 
   Coordinates will appear here after the paper will be accepted.
 
