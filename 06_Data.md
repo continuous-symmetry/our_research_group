@@ -10,7 +10,6 @@ Please find below data related to specific publications.
 
    [Coordinates of crown ethers with Li<sup>+</sup> and Na<sup>+</sup>](/assets/data/Li-Na.zip) 
 
-  Coordinates will appear here after the paper will be accepted.
 
 * Y. Shalit and I. Tuvi-Arad, [Side chain flexibility and the symmetry of protein homodimers](https://doi.org/10.1371/journal.pone.0235863), PLOS ONE 15(7): e0235863 (2020). 
   
