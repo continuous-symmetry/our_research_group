@@ -6,6 +6,9 @@ permalink: "/Data/"
 
 Please find below data related to specific publications. 
 
+* I. Tuvi-Arad and Y. Shalit, Complexes of Phenyl Substituted Crown Ethers with Alkali Cations – Energy and Structural Trends (submitted). 
+Data will appear here as soon as the paper is accepted.
+
 * Y. Shalit and I. Tuvi-Arad, [Symmetry−Binding Correlations of Crown Ether Complexes with Li<sup>+</sup> and Na<sup>+</sup>](https://pubs.acs.org/doi/abs/10.1021/acsomega.1c02684), ACS Omega 2021, 6, 29, 19233–19237 (2021).
 
    [Coordinates of crown ethers with Li<sup>+</sup> and Na<sup>+</sup>](/assets/data/Li-Na.zip) 
