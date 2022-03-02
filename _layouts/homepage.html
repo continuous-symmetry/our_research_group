@@ -3,14 +3,16 @@ layout: skelaton_of_page
 ---
    
 <!-- start  home page content -->
-</br></br>
-<h1>This is the hompage of the continuous-symmetry-measure reasearch group</h1>
-</br></br>
+
 <div class="container marketing">
 <div class="row">
+<h1>This is the hompage of the continuous-symmetry-measure reasearch group</h1>
+<div><!-- /.row -->
+<div class="row">   
 {% for  item in site.homepage_items %}
 {%- include homepage_item.html -%}
 {% endfor %}
 </div><!-- /.row -->
+   
 </div><!-- /.container marketing -->
 <!-- end  home page content -->
