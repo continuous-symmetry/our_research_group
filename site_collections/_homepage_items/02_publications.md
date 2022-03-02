@@ -1,5 +1,5 @@
 ---
-title: Selected Publications
+title: Our Publications
 item_id: article2
 more_url: /our_publications/
 item_img: "/images/openu-logo-small.jpg"
