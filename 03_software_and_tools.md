@@ -8,7 +8,7 @@ permalink: "/software_and_tools/"
   
   
 
-# [CoSyM](http://csm.ouproj.org.il/)
+# [CoSyM](https://csm.ouproj.org.il/)
 Online calculators of continuous symmetry and chirality measures for small molecules and proteins.
 
 # [proteincsm](https://continuous-symmetry-measure.github.io/proteincsm)
