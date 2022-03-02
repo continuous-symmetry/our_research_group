@@ -1,6 +1,6 @@
 ---
 layout: "generic"
-title: "Selected Publications"
+title: "Our Publications"
 permalink: "/our_publications/"
 ---
 
