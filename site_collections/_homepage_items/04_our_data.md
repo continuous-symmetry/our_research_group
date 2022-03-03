@@ -1,7 +1,7 @@
 ---
 title: Data
 item_id: atricle4
-more_url: /data/
+more_url: /Data/
 item_img: "/images/data-big-img.png"
 ---
 
