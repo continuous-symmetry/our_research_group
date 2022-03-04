@@ -13,11 +13,9 @@ One may ask then how far from symmetry is a given molecular structure or "what i
 
 ##### Members:
 * [Prof. Inbal Tuvi-Arad](https://www.openu.ac.il/en/personalsites/InbalTuviArad.aspx), Department of Natural Sciences
-* Dr. Ariela Kaspi-Kaneti
-* Dr. Israel Zadok
 * Yaffa Shalit
 * [The Research Software company](http://www.chelem.co.il/)
-* [Sagiv Barhoom](https://github.com/sagivba) - Developer and sysadmin
+* [Sagiv Barhoom](https://github.com/sagivba) - Developer and system admin
 
 ##### Collaborators:
 * [Dr. Gil Alon](https://www.openu.ac.il/personal_sites/gil-alon/), Deptartment of Mathematics and Computer Science, The Open University of Israel
