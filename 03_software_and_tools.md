@@ -1,7 +1,7 @@
 ---
 layout: "generic"
 title: "Software and Tools"
-image: "/images/app,jpg"
+image: "/images/app.jpg"
 permalink: "/software_and_tools/"
 ---
   
