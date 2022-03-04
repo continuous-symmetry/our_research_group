@@ -1,6 +1,7 @@
 ---
 layout: "generic"
 title: " "
+image: "/images/publications.jpg"
 permalink: "/our_publications/"
 ---
 
