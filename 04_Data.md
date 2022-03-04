@@ -1,6 +1,7 @@
 ---
 layout: "generic"
 title: " "
+image: "/images/data-image.jpg"
 permalink: "/Data/"
 ---
 
