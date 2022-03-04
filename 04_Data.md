@@ -1,6 +1,6 @@
 ---
 layout: "generic"
-title: "Data"
+title: " "
 permalink: "/Data/"
 ---
 
