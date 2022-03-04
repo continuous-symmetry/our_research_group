@@ -6,6 +6,7 @@ permalink: "/Data/"
 
 ## Data from specific publications 
 
+
 * I. Tuvi-Arad and Y. Shalit, Complexes of Phenyl Substituted Crown Ethers with Alkali Cations – Energy and Structural Trends (submitted). 
 
      Data will appear here as soon as the paper is accepted.
