@@ -1,7 +1,7 @@
 ---
 layout: "generic"
 title: "Software and Tools"
-image: "/images/c60-symmetry-1.png"
+image: "/images/app,jpg"
 permalink: "/software_and_tools/"
 ---
   
