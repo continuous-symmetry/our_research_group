@@ -1,7 +1,7 @@
 ---
 layout: "generic"
 title: "Publications"
-permalink: "/publications/"
+permalink: "/our_publications/"
 ---
 
 ### List of publications from our group:
