@@ -12,7 +12,7 @@ permalink: "/software_and_tools/"
 Online calculators of continuous symmetry and chirality measures for small molecules and proteins.
 
 ### [Molecular Symmetry Online](https://telem.openu.ac.il/symmetry/)
-Interactive visualization and drawing tools of symmetry elements
+Interactive visualization and drawing of symmetry elements
 
 ## Software
 ### [proteincsm](https://continuous-symmetry-measure.github.io/proteincsm)
