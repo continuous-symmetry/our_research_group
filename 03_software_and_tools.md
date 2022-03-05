@@ -14,7 +14,8 @@ Online calculators of continuous symmetry and chirality measures for small molec
 ### [Molecular Symmetry Online](https://telem.openu.ac.il/symmetry/)
 Online set of tools for 3D interactive display of molecules and their symmetry elements.
 
-</br>
+
+<br/>
 
 ## Software
 ### [proteincsm](https://continuous-symmetry-measure.github.io/proteincsm)
