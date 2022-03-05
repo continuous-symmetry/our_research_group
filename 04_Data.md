@@ -1,6 +1,6 @@
 ---
 layout: "generic"
-title: " "
+title: "Data"
 image: "/images/data-image.jpg"
 permalink: "/Data/"
 ---
