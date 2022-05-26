@@ -21,9 +21,11 @@ Online set of tools for 3D interactive display of molecules and their symmetry e
 ### [proteincsm](https://continuous-symmetry-measure.github.io/proteincsm)
 This software calculates continuous symmetry measures (CSMs) for protein homomers.
 
-### [pdb_prep](https://continuous-symmetry-measure.github.io/pdb_prep/)
+### [pdb_prep](https://continuous-symmetry-measure.github.io/pdb_prep)
 This software prepares protein files given in PDB format for calculation with proteincsm.
 
-### [pdbslicer](https://continuous-symmetry-measure.github.io/pdbslicer/)
+### [pdbslicer](https://continuous-symmetry-measure.github.io/pdbslicer)
 This software applies different strategies of bisecting a protein into its building blocks, in order to analyze their structure. 
 
+### [Shape](https://github.com/continuous-symmetry-measure/shape)
+This is the orginal Pinsky and Avnir code that calculates continuous shape measures (CShMs) for polyhedra.
