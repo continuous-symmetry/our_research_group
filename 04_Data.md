@@ -7,9 +7,11 @@ permalink: "/Data/"
 
 ## Data from specific publications 
 
-* G. Alon, Y. Ben-Haim and I. Tuvi-Arad, Continuous Symmetry and Chirality Measures: Approximate Algorithms for Large Molecular Structures,
-[C100 Fullerenes coordinates](https://nanotube.msu.edu/fullerene/fullerene.php?C=100)
-Coordinates of pillar[5]arene Complexes with Li<sup>+</sup>
+* G. Alon, Y. Ben-Haim and I. Tuvi-Arad, Continuous Symmetry and Chirality Measures: Approximate Algorithms for Large Molecular Structures (submitted)
+  
+   [C<sub>100</sub> Fullerenes coordinates](https://nanotube.msu.edu/fullerene/fullerene.php?C=100)
+   
+   [Coordinates and energies of pillar[5]arenes with Li<sup>+</sup>](/assets/data/pillaraene_confs.zip)
 
 * Y. Shalit and I. Tuvi-Arad, [Symmetry−Binding Correlations of Crown Ether Complexes with Li<sup>+</sup> and Na<sup>+</sup>](https://pubs.acs.org/doi/abs/10.1021/acsomega.1c02684), ACS Omega 2021, 6, 29, 19233–19237 (2021).
 
