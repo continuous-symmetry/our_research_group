@@ -7,13 +7,17 @@ permalink: "/Data/"
 
 ## Data from specific publications 
 
-* G. Alon, Y. Ben-Haim and I. Tuvi-Arad, Continuous Symmetry and Chirality Measures: Approximate Algorithms for Large Molecular Structures (submitted)
+* I. Tuvi-Arad, Y. Shalit and G. Alon, CSM Software: Continuous Symmetry and Chirality Measures for quantitative Structural Analysis (submitted)
+
+    [Input and output data files for the examples shown in the paper](/assets/data/Examples.zip)
+  
+* G. Alon, Y. Ben-Haim and I. Tuvi-Arad, [Continuous Symmetry and Chirality Measures: Approximate Algorithms for Large Molecular Structures](https://link.springer.com/article/10.1186/s13321-023-00777-x), Journal of Cheminformatics 15 (1), 106 ‏  (2023)
   
    [C<sub>100</sub> Fullerenes coordinates](https://nanotube.msu.edu/fullerene/fullerene.php?C=100)
    
   <a href="/assets/data/pillararene_confs.zip" download>  Dataset of pillar[5]arenes complexes with Li<sup>+</sup> </a>
 
-* Y. Shalit and I. Tuvi-Arad, [Symmetry−Binding Correlations of Crown Ether Complexes with Li<sup>+</sup> and Na<sup>+</sup>](https://pubs.acs.org/doi/abs/10.1021/acsomega.1c02684), ACS Omega 2021, 6, 29, 19233–19237 (2021).
+* Y. Shalit and I. Tuvi-Arad, [Symmetry−Binding Correlations of Crown Ether Complexes with Li<sup>+</sup> and Na<sup>+</sup>](https://pubs.acs.org/doi/abs/10.1021/acsomega.1c02684), ACS Omega, 6, 29, 19233–19237 (2021).
 
    [Coordinates of crown ethers with Li<sup>+</sup> and Na<sup>+</sup>](/assets/data/Li-Na.zip) 
 
